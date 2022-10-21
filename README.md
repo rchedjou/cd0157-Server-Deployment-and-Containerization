@@ -85,4 +85,9 @@ Completing the project involves several steps:
 5. Create a CodePipeline pipeline triggered by GitHub checkins
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
+
+## VARIABLES D'ENVIRONEMENT
+1. JWT_SECRET='TestSecret'
+2. LOG_LEVEL=DEBUG
+
 For more detail about each of these steps, see the project lesson.
